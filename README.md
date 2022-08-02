@@ -1,0 +1,2 @@
+# bot-tradingview
+bot
